@@ -1,5 +1,7 @@
 # Oman Oil Production: Trend Analysis and Forecast Test
 
+Built while learning Python and SQL, with guidance from Claude (AI assistant).
+
 Analysis of crude oil production for Oman and Gulf producers using the
 Energy Institute Statistical Review of World Energy dataset (1965-2025).
 
