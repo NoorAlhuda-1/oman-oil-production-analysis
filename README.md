@@ -14,6 +14,8 @@ Energy Institute Statistical Review of World Energy dataset (1965-2025).
 - A simple 2016-2022 average (MAE 27 kbd) beat a linear trend (MAE 39)
   and a last-value baseline (MAE 50).
 - Oman's output looks stable within a range rather than growing.
+- ![Oman oil production trend](oman_trend.png)
+- ![Gulf oil producers 2025](gulf_comparison.png)
 
 ## Limitations
 - The test set is only 3 years, so conclusions are tentative.
